@@ -1,0 +1,2 @@
+ex1 https://contest.yandex.ru/contest/56884/run-report/102721357/
+ex2 https://contest.yandex.ru/contest/56884/problems/B/
